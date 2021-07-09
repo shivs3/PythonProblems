@@ -1,0 +1,10 @@
+
+1:40     Version Control introduction
+4:53     Why version Control
+12:51   Version Control Tools
+15:18   Git & GitHub
+21:56   Case Study: Dominion enterprises
+25:32   What is Git
+28:25   Features of Git
+41:48    What is a Repository
+44:24   Git Operations and Commands
